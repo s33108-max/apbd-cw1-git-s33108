@@ -10,5 +10,6 @@ public class StatisticsHelper {
     public double CalculateAverage(int[] values)
     {
         return 0;
+        //komentarz w srdoku metody
     }
 }
