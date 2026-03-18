@@ -1,3 +1,5 @@
+using System;
+using System.Linq;
 public class StatisticsHelper {
     int godzina = 13;
     string dzien = "sroda";
@@ -19,7 +21,7 @@ public class StatisticsHelper {
     }
     public double CalculateMin(int[] values))
     {
-        
+        return values.Min();
     }
 
 
