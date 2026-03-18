@@ -6,4 +6,9 @@ public class StatisticsHelper {
     {
         Console.WriteLine("Jest godzina " + godzina + ", dzieñ " + dzien);
     }
+
+    public double CalculateAverage(int[] values)
+    {
+        return 0;
+    }
 }
