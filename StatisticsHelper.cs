@@ -12,4 +12,9 @@ public class StatisticsHelper {
         return 0;
         //komentarz w srdoku metody
     }
+
+    public int CalculateMax(int[] values)
+    {
+        return 0; 
+    }
 }
