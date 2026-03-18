@@ -6,7 +6,7 @@ namespace apbd_cw1_git_s33108
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("zmiana tekstu");
         }
     }
 }
