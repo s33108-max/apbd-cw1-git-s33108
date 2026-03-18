@@ -6,7 +6,11 @@ namespace apbd_cw1_git_s33108
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("galez main");
+
+            Console.WriteLine("galez main i galez feature-conflict ");
+
+       
+
         }
     }
 }
